@@ -20,11 +20,11 @@ else:
 
 #6
 
-print("1:", texto.upper())
-print("2:", texto.lower())
-print("3:", texto.title())
-print("4:", texto.capitalize())
-print("5:", texto.replace("Python", "IA"))
-print("6:", texto.count("a"))
-print("7:", texto.find("Python"))
-print("8:", len(texto))
+print("a:", texto.upper())
+print("b:", texto.lower())
+print("c:", texto.title())
+print("d:", texto.capitalize())
+print("e:", texto.replace("Python", "IA"))
+print("f:", texto.count("a"))
+print("g:", texto.find("Python"))
+print("h:", len(texto))
