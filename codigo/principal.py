@@ -19,7 +19,6 @@ else:
     print("La palabra 'Python' no se encuentra en el texto.")
 
 #6
-
 print("a:", texto.upper())
 print("b:", texto.lower())
 print("c:", texto.title())
