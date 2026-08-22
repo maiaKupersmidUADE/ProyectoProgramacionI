@@ -27,3 +27,21 @@ print("e:", texto.replace("Python", "IA"))
 print("f:", texto.count("a"))
 print("g:", texto.find("Python"))
 print("h:", len(texto))
+
+#7
+producto = input("Producto: ")
+precio = float(input("Precio unitario: "))
+cantidad = int(input("Cantidad: "))
+total = precio * cantidad
+
+#a
+print(f"Producto: {producto}")
+print(f"Precio unitario: {precio}")
+print(f"Cantidad: {cantidad}")
+print(f"Total: {total}")
+
+#b
+print("Producto: " + producto)
+print("Precio unitario: " + str(precio))
+print("Cantidad: " + str(cantidad))
+print("Total: " + str(total))
